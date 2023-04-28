@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb999d15-266c-4703-88d7-4b26f8d08f22" name="変更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hx8ivnVREsernEyursIuYPiCnt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nene/TL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="bb999d15-266c-4703-88d7-4b26f8d08f22" name="変更" comment="" />
+      <created>1669215504789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669215504789</updated>
+      <workItem from="1669215511390" duration="8451000" />
+      <workItem from="1669227704572" duration="121000" />
+      <workItem from="1669231510646" duration="108000" />
+      <workItem from="1669299615135" duration="890000" />
+      <workItem from="1669300620575" duration="852000" />
+      <workItem from="1669301477880" duration="207000" />
+      <workItem from="1669302639425" duration="821000" />
+      <workItem from="1669309387062" duration="3033000" />
+      <workItem from="1669313503359" duration="5959000" />
+      <workItem from="1669369207280" duration="353000" />
+      <workItem from="1669379872642" duration="20000" />
+      <workItem from="1669380586488" duration="1130000" />
+      <workItem from="1669381796789" duration="2489000" />
+      <workItem from="1669384298455" duration="146000" />
+      <workItem from="1669384710725" duration="2387000" />
+      <workItem from="1669389271515" duration="2913000" />
+      <workItem from="1669392703046" duration="422000" />
+      <workItem from="1669393712751" duration="184000" />
+      <workItem from="1669394070404" duration="120000" />
+      <workItem from="1669395654008" duration="14000" />
+      <workItem from="1669400894150" duration="1532000" />
+      <workItem from="1669404280980" duration="3185000" />
+      <workItem from="1669409707921" duration="789000" />
+      <workItem from="1669410947077" duration="1315000" />
+      <workItem from="1669441779172" duration="4979000" />
+      <workItem from="1669448430860" duration="155000" />
+      <workItem from="1669448740898" duration="38000" />
+      <workItem from="1669448874140" duration="4000" />
+      <workItem from="1669449393667" duration="1072000" />
+      <workItem from="1669450718956" duration="4643000" />
+      <workItem from="1669469167689" duration="1114000" />
+      <workItem from="1669475770681" duration="1665000" />
+      <workItem from="1669477545441" duration="517000" />
+      <workItem from="1669481930932" duration="97000" />
+      <workItem from="1669483058223" duration="7000" />
+      <workItem from="1669483591460" duration="35000" />
+      <workItem from="1669483786554" duration="68000" />
+      <workItem from="1669483933858" duration="163000" />
+      <workItem from="1669484666790" duration="265000" />
+      <workItem from="1669561366163" duration="900000" />
+      <workItem from="1669581509005" duration="2065000" />
+      <workItem from="1669599564398" duration="7000" />
+      <workItem from="1669649280307" duration="12000" />
+      <workItem from="1669649437199" duration="391000" />
+      <workItem from="1669649941509" duration="389000" />
+      <workItem from="1669651260200" duration="89000" />
+      <workItem from="1669734527555" duration="4596000" />
+      <workItem from="1669752960707" duration="99000" />
+      <workItem from="1669813755385" duration="1983000" />
+      <workItem from="1669821981135" duration="1871000" />
+      <workItem from="1669991563574" duration="209000" />
+      <workItem from="1669991805685" duration="1501000" />
+      <workItem from="1670512292582" duration="374000" />
+      <workItem from="1670734261332" duration="604000" />
+      <workItem from="1671945687769" duration="2941000" />
+      <workItem from="1671949363839" duration="1831000" />
+      <workItem from="1672239586981" duration="29000" />
+      <workItem from="1672511947031" duration="216000" />
+      <workItem from="1672540695489" duration="1748000" />
+      <workItem from="1673276781526" duration="18000" />
+      <workItem from="1673276969593" duration="630000" />
+      <workItem from="1674054766450" duration="326000" />
+      <workItem from="1674140554126" duration="1535000" />
+      <workItem from="1674575930904" duration="1652000" />
+      <workItem from="1674887770489" duration="115000" />
+      <workItem from="1675867933776" duration="64000" />
+      <workItem from="1676039688204" duration="7000" />
+      <workItem from="1676433403219" duration="2189000" />
+      <workItem from="1678382476058" duration="32000" />
+      <workItem from="1680332549677" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TL$search.coverage" NAME="search のカバレッジ結果" MODIFIED="1674887866727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$test.coverage" NAME="test のカバレッジ結果" MODIFIED="1669302722176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$tweet.coverage" NAME="tweet のカバレッジ結果" MODIFIED="1674578514455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$list.coverage" NAME="list のカバレッジ結果" MODIFIED="1669470089379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$main.coverage" NAME="main のカバレッジ結果" MODIFIED="1669384246269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$tw.coverage" NAME="tw のカバレッジ結果" MODIFIED="1669443211753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$testu.coverage" NAME="testu のカバレッジ結果" MODIFIED="1669562015790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$creat_image.coverage" NAME="creat_image のカバレッジ結果" MODIFIED="1678382500573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TL$ci.coverage" NAME="ci のカバレッジ結果" MODIFIED="1669447816595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
